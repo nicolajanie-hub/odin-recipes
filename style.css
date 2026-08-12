@@ -1,0 +1,65 @@
+body {
+    background-color: brown;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+img {
+    width: 25%;
+    height: auto;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+h1 {
+    font-family: 'Brush Script', Georgia, 'Times New Roman', serif;
+    box-sizing: border-box;
+    width: 250px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    border: 2px black solid;
+    background-color: goldenrod;
+}
+
+h4 {
+    color: brown;
+}
+
+.homepage {
+    text-align: center;
+}
+
+.text {
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+    border: 2px black solid;
+    width: 60%;
+    margin-bottom: 10px;
+    margin: auto;
+    padding: 10px;
+}
+
+strong {
+    color: brown;
+}
+
+a {
+    color: darkred;
+    font-weight: bold;
+}
+
+.nav {
+    box-sizing: border-box;
+    background-color: burlywood;
+    border: 2px black solid;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 10px;
+}
